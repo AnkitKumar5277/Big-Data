@@ -1,0 +1,49 @@
+Big data 
+Data engineering mein Big Data ka matlab hai bahut bade aur complex data sets jo itne massive hote hain ki unhe traditional databases aur processing tools se handle karna mushkil hota hai.
+Big Data ko Classification ke base par chaar pramukh categories mein divide kiya jata hai: Structured, Unstructured, Semi-Structured, aur Quasi-Structured Data.
+
+Big Types :
+Structured Data – Yeh woh data hota hai jo properly organized hota hai, jaise relational databases (SQL tables) mein stored data.
+Unstructured Data – Aisa data jo kisi specific format mein nahi hota, jaise images, videos, social media posts, aur emails.
+Semi-Structured Data – Yeh data structured aur unstructured data ke beech ka hota hai, jaise JSON, XML, aur NoSQL databases.
+Quasi-Structured Data – Aisa data jo loosely structured hota hai, jaise log files, clickstream data, aur sensor data.
+
+Distributed storage systems
+ek aise storage system hote hain jo data ko multiple servers ya machines par distribute karke store karte hain, taaki reliability, scalability aur accessibility improve ho sake.
+
+How to store and process Big Data ek sentence mein
+Big Data ko store karne ke liye distributed storage systems (jaise Hadoop HDFS, AWS S3) use kiya jata hai, aur process karne ke liye parallel computing frameworks (jaise Apache Spark, MapReduce) ka use hota hai.
+
+Data generated per minute
+Har minute duniya mein lagbhag 1.7 MB data per person generate hota hai, jo social media posts, online transactions, searches aur sensors se aata hai.
+
+Big Data ka application 
+Data engineering mein Big Data ka application data ko efficiently collect, store, process, aur analyze karne ke liye scalable systems aur tools ka use karna hota hai, taaki large volumes of data se meaningful insights nikaale jaa sakein.
+Healthcare: Big Data se treatment personalize hota hai aur disease outbreaks ko predict kiya jaata hai patient data ke analysis se.
+
+
+Finance: Big Data fraud detect karta hai aur transaction patterns aur market data ke through risks manage karta hai.
+
+
+Retail: Retailers Big Data ka use karte hain customer behavior samajhne aur inventory manage karne ke liye.
+
+
+Manufacturing: Predictive maintenance aur supply chain optimization ke liye equipment data aur trends analyze kiye jaate hain.
+
+
+Social Media & Marketing: Big Data targeted advertising aur sentiment analysis ke liye use hota hai customer engagement ko improve karne mein.
+
+
+Transportation: Traffic flow optimize karna, routes plan karna aur autonomous vehicles ko navigate karna Big Data se hota hai.
+
+
+Energy Sector: Smart grid management aur energy consumption prediction ke liye Big Data ka use hota hai wastage ko kam karne ke liye.
+
+
+Education: Big Data se learning paths personalize kiye jaate hain aur student performance ke basis pe curriculum improve kiya jaata hai.
+
+
+Government: Public services, law enforcement aur policy-making improve karne ke liye Big Data ka use hota hai large-scale data analysis se.
+
+
+Sports: Teams player performance aur fan engagement ko analyze karte hain Big Data ke through strategy aur experiences ko improve karne ke liye.
