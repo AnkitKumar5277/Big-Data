@@ -2,7 +2,7 @@ Big Data :
 Big data 
 Big Data: Large, complex data sets requiring advanced processing techniques.
 
-*Big Types :*
+Big Types :
 Structured Data – Structured data: organized, fixed-format data in databases, easily searchable.
 Unstructured Data – Unstructured data: raw, unorganized information without predefined format or schema.
 Semi-Structured Data – Semi-structured data: flexible format, partial organization, like JSON, XML.
